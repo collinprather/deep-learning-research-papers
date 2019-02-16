@@ -5,8 +5,12 @@
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [ZFNet](https://arxiv.org/abs/1311.2901)
 * [VGG16](https://arxiv.org/abs/1409.1556)
-* LeNet
+* [Google's LeNet](https://arxiv.org/abs/1409.4842)
+	* [Great post on the effectiveness of 1x1 convolutions](https://iamaaditya.github.io/2016/03/one-by-one-convolution/)
+* [Microsoft ResNet](https://arxiv.org/abs/1512.03385)
+	* [Andrej Karpethy's blog on competing with ResNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 * [Comprehensive Survey of Deep Learning Approaches](https://arxiv.org/abs/1803.01164)
+* add final resources from [this blog](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 # Read:
 
