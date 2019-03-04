@@ -11,6 +11,7 @@
 	* [Andrej Karpethy's blog on competing with ResNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 * [Comprehensive Survey of Deep Learning Approaches](https://arxiv.org/abs/1803.01164)
 * [FaceNet](https://arxiv.org/abs/1503.03832)
+* [DeepFace](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
 * add final resources from [this blog](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 # Read:
